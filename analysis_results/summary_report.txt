@@ -1,0 +1,53 @@
+=== REPORTE DE ANÁLISIS DE INTERNET SATELITAL ===
+
+Datasets disponibles: 1
+Total de registros: 50
+
+Dataset: satellite_internet_sample
+  - Registros: 50
+  - Columnas: 8
+  - Columnas numéricas: 6
+
+=== ANÁLISIS DE COBERTURA ===
+Top 5 países por cobertura:
+  - Canada: 68.5%
+  - UK: 67.1%
+  - China: 66.8%
+  - Australia: 59.4%
+  - Brazil: 59.2%
+
+=== COMPARACIÓN DE PROVEEDORES ===
+Starlink:
+  - countries_served: 10
+  - avg_coverage: 55.33
+  - avg_speed: 84.51
+  - avg_cost: 130.6
+  - avg_latency: 259.78
+
+OneWeb:
+  - countries_served: 10
+  - avg_coverage: 57.74
+  - avg_speed: 77.09
+  - avg_cost: 129.61
+  - avg_latency: 282.78
+
+Viasat:
+  - countries_served: 10
+  - avg_coverage: 54.12
+  - avg_speed: 95.97
+  - avg_cost: 124.96
+  - avg_latency: 281.23
+
+HughesNet:
+  - countries_served: 10
+  - avg_coverage: 48.79
+  - avg_speed: 87.86
+  - avg_cost: 98.06
+  - avg_latency: 401.45
+
+Iridium:
+  - countries_served: 10
+  - avg_coverage: 61.67
+  - avg_speed: 83.84
+  - avg_cost: 121.51
+  - avg_latency: 307.21
